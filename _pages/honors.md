@@ -1,54 +1,32 @@
 ---
 layout: archive
-title: ""
-permalink: /bio/
+title: "Honors"
+permalink: /honors/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Scholarships
 
-Education
-======
-* B.S. in Mathematics and Applied Mathematics, [Duke Kunshan University](https://dukekunshan.edu.cn), Aug.2018 -- Jun.2022
-* 2018 Aug - 2022 June	Bachelor of Science, Duke Kunshan University
-  * Major in Applied Mathematics
-  * Related Courses in Applied Mathematics: Mathematical Foundation 1, Mathematical Foundation 3, Multivariable Calculus, Linear Algebra, ODE and Dynamical Systems, Real Analysis, Abstract Algebra, Partial Differential Equations, Numerical Analysis, Mathematical Modeling, Mathematics of Data Analysis and Machine Learning, Advanced Linear Algebra, Complex Variable, Stochastic Modeling and Computing, Topology.
-  * Minor in Economic
-  * Related Courses in Economic: Economic Principles, Intermediate Microeconomics I, Intermediate Macroeconomics.
-  * GRE score: 340 + 4.0
-* Xuzhou NO. 1 Middle School, China, Aug.2014 -- Jun.2018
-
-
-Research Experience
-======
-* Dec 2020 – Present: Research Assistant at Data Science Research Center, Duke Kunshan University
-  * Research Brief: Proficiently crawl first-hand data of Chinese-Spanish/ Portuguese translated books by Python and analyze the resulting multi-dimensional data sets, [referencing for more details](https://dukekunshan.edu.cn/en/news/four-faculty-members-receive-funds-datax-project).
-  * Advisors: Prof. [Caio Yurgel](https://dukekunshan.edu.cn/en/iapse/people/yurgel-caio-ph-d) & Prof. [Zairong Xiang](https://dukekunshan.edu.cn/en/iapse/people/xiang-zairong-phd)
-
-* May – Aug 2021: Summer Research Scholars program member, Duke Kunshan University
-  * Research Brief: Routinely conduct literature review on healthy lifestyle and childhood cancer, and collaboratively access to Yinzhou, China, databases for vaccine effectiveness
-  * Supervisor: Prof. [Lijing Yan](https://dukekunshan.edu.cn/en/research/faculty/lijing-yan)
-
-* Sep – Dec 2020:	Research Assistant at Division of Social Sciences, Duke Kunshan University
-  * Research Brief: Proficiently clean and classify first-hand patent data by Python and analyze the output figures and charts
-  * Advisor: Prof. [Jingbo Cui](https://dukekunshan.edu.cn/en/iapse/people/cui-jingbo-phd)
-
-* July – Aug 2020: China Health and Retirement Longitudinal Study (CHARLS), Peking University, China
-  * Research Brief: Served as team leader leading 7 members in the 2020 CHARLS project; conduct face-to-face questionnaire survey, interview and body measurement for residents of more than 200 households in 6 villages in Jiangsu and Shandong provinces, China; completed the preliminary cleaning and analysis of the 2018 CHARLS data by Stata [referencing for more details and databases](https://opendata.pku.edu.cn/dataverse/CHARLS).
-  * Advisor: Prof. [Yaohui Zhao](https://en.nsd.pku.edu.cn/faculty/fulltime/z/239576.htm)
+<!--A plotting referring to the prizes that I have been awarded each year. <br/>
+<img src='/images/scholarship.JPG'>
+-->
+* Best Undergraduate Thesis Award, <!--**Prize: 500 RMB**--> 2018.6
+* Kwang-Hua Education Scholarship, <!--**Prize: 3000 RMB**--> 2017.12
+  * _The only awarded student among roughly 1000 students in our department_
+  * _Awarded by the Kwang-Hua Education Foundation_
+* Shenzhen Financial Institute (SFI) Scholarship (Academic), <!--**Prize: 10000 RMB**--> 2017.5
+  * _One of the only two students among more than 300 junior (Year 3) students in our department_
+  * _Awarded by The Chinese University of Hong Kong, Shenzhen_
+* AEON Donation Scholarship for Excellent Students, <!--**Prize: 5000 RMB**--> 2016.12
+  * _The only awarded student among roughly 1000 students in our department_
+* SYSU Outstanding Student Scholarship (First Prize), <!--**Prize: 2000 RMB + 4000 RMB**--> 2016.9 & 2017.9
+* SYSU Outstanding Student Scholarship (Second Prize), <!--**Prize: 1500 RMB**--> 2015.9
 
 
-Skills
-======
-* LaTeX
-* Computer Programming
-  * R
-  * Matlab
-  * Python
-* Language
-  * Chinese Mandarin (Native)
-  * Cantonese (Native)
-  * English (Fluent)
-  * Japanese (Fluent)
+## Awards
+
+* Mathematical Contest In Modeling, **Honorable Mention**, 2017
+* Interdisciplinary Contest In Modeling, **Meritorious Winner**, 2016
+* National Undergraduate Mathematics Competition of China, **Second Prize of Math Category**, 2015
+* SYSU Freshman Soccer Cup, **Second Place**, 2015
+  * _I played as the Captain and led our team to the final_
