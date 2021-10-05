@@ -12,4 +12,4 @@ I am a recent A.P. undergraduate from [Duke Kunshan University](https://dukekuns
 
 Education
 ======
-* B.S. in Mathematics and Applied Mathematics, [Sun Yat-Sen University](http://www.sysu.edu.cn/), Aug.2014 -- Jun.2018
+* B.S. in Mathematics and Applied Mathematics, [Duke Kunshan University](https://dukekunshan.edu.cn), Aug.2018 -- Jun.2022
