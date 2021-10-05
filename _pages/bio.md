@@ -14,9 +14,9 @@ Education
 * B.S. in Mathematics and Applied Mathematics, [Duke Kunshan University](https://dukekunshan.edu.cn), Aug.2018 -- Jun.2022
 * 2018 Aug - 2022 June	Bachelor of Science, Duke Kunshan University
   * Major in Applied Mathematics
-    Related Courses in Applied Mathematics: Mathematical Foundation 1, Mathematical Foundation 3, Multivariable Calculus, Linear Algebra, ODE and Dynamical Systems, Real Analysis, Abstract Algebra, Partial Differential Equations, Numerical Analysis, Mathematical Modeling, Mathematics of Data Analysis and Machine Learning, Advanced Linear Algebra, Complex Variable, Stochastic Modeling and Computing, Topology.
+  * Related Courses in Applied Mathematics: Mathematical Foundation 1, Mathematical Foundation 3, Multivariable Calculus, Linear Algebra, ODE and Dynamical Systems, Real Analysis, Abstract Algebra, Partial Differential Equations, Numerical Analysis, Mathematical Modeling, Mathematics of Data Analysis and Machine Learning, Advanced Linear Algebra, Complex Variable, Stochastic Modeling and Computing, Topology.
   * Minor in Economic
-    Related Courses in Economic: Economic Principles, Intermediate Microeconomics I, Intermediate Macroeconomics.
+  * Related Courses in Economic: Economic Principles, Intermediate Microeconomics I, Intermediate Macroeconomics.
   * GRE score: 340 + 4.0
 * Xuzhou NO. 1 Middle School, China, Aug.2014 -- Jun.2018
 
