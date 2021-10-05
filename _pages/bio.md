@@ -36,7 +36,7 @@ Research Experience
   * Advisor: Prof. [Jingbo Cui](https://dukekunshan.edu.cn/en/iapse/people/cui-jingbo-phd)
 
 * July – Aug 2020: China Health and Retirement Longitudinal Study (CHARLS), Peking University, China
-  * Research Brief: Served as team leader leading 7 members in the 2020 CHARLS project; conduct face-to-face questionnaire survey, interview and body measurement for residents of more than 200 households in 6 villages in Jiangsu and Shandong provinces, China; completed the preliminary cleaning and analysis of the 2018 CHARLS data by Stata
+  * Research Brief: Served as team leader leading 7 members in the 2020 CHARLS project; conduct face-to-face questionnaire survey, interview and body measurement for residents of more than 200 households in 6 villages in Jiangsu and Shandong provinces, China; completed the preliminary cleaning and analysis of the 2018 CHARLS data by Stata [referencing for more details and databases](https://opendata.pku.edu.cn/dataverse/CHARLS).
   * Advisor: Prof. [Yaohui Zhao](https://en.nsd.pku.edu.cn/faculty/fulltime/z/239576.htm)
 
 
