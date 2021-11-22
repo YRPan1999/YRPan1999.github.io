@@ -35,7 +35,7 @@ Research Experience
   * Supervisor: Prof. [Lijing Yan](https://dukekunshan.edu.cn/en/research/faculty/lijing-yan)
 
 * May – Aug 2021: Research Assistant at Department of Computer Science and Technology, China University of Ming & Technology
-  * Research Brief: Attentively reviewed all the latest literatures about recommender systems within a week and took parts in various experiments on different systems, and actively participated in the writing of research paper which is prepared to submit for publication in Pattern Recognition
+  * Research Brief: Attentively reviewed all the latest literatures about recommender systems within a week and took parts in various experiments on different systems, and actively participated in the writing of <A href="https://YRPan1999.github.io/publications/A_Weighted_Symmetric_Graph_Embedding_Approach_for_Link_Prediction_in_Undirected_Graphs.pdf" style="color: #52adc8; text-decoration=underline">research paper</A> which is prepared to submit for publication in Pattern Recognition
   * Supervisor: Prof. [Zhixiao Wang](http://cs.cumt.edu.cn/info/1016/1062.htm)
 
 * Sep – Dec 2020:	Research Assistant at Division of Social Sciences, Duke Kunshan University
