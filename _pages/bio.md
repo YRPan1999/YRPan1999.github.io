@@ -31,6 +31,10 @@ Research Experience
   * Research Brief: Routinely conduct literature review on healthy lifestyle and childhood cancer, and collaboratively access to Yinzhou, China, databases for vaccine effectiveness
   * Supervisor: Prof. [Lijing Yan](https://dukekunshan.edu.cn/en/research/faculty/lijing-yan)
 
+* May – Aug 2021: Research Assistant at Department of Computer Science and Technology, China University of Ming & Technology
+  * Research Brief: Attentively reviewed all the latest literatures about recommender systems within a week and took parts in various experiments on different systems, and actively participated in the writing of research paper which is prepared to submit for publication in Pattern Recognition
+  * Supervisor: Prof. [Zhixiao Wang](http://cs.cumt.edu.cn/info/1016/1062.htm)
+
 * Sep – Dec 2020:	Research Assistant at Division of Social Sciences, Duke Kunshan University
   * Research Brief: Proficiently clean and classify first-hand patent data by Python and analyze the output figures and charts
   * Advisor: Prof. [Jingbo Cui](https://dukekunshan.edu.cn/en/iapse/people/cui-jingbo-phd)
@@ -49,6 +53,5 @@ Skills
   * Python
 * Language
   * Chinese Mandarin (Native)
-  * Cantonese (Native)
-  * English (Fluent)
+  * English (Business)
   * Japanese (Fluent)
