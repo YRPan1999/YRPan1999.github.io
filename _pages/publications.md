@@ -32,7 +32,7 @@ My publications will be coming soon.
 
 ## Mathematical Modeling Competition
 
-1. **Youran Pan**, Yiyang Sun, Zikang Jia (2021). <A href="https://YRPan1999.github.io/publications/2021_MCM.pdf" style="color: #52adc8; text-decoration=underline"> Fungi’s Contribution to Carbon Cycle through Competition Model</A>.
+1. **Youran Pan**, Yiyang Sun, Zikang Jia (2021). <A href="https://YRPan1999.github.io/publications/2021_MCM.pdf" style="color: #52adc8; text-decoration=underline"> Fungi’s Contribution to Carbon Cycle through Competition Model</A>, Honorable Mention.
 2. **Youran Pan**, Yiyang Sun, Zikang Jia (2020). <A href="https://YRPan1999.github.io/publications/2020_Mathorcup.pdf" style="color: #52adc8; text-decoration=underline"> Research on Dynamic Pricing of Car-Free Transportation Platform Based on Regression Model and Random Forest</A>.
 3. **Youran Pan**, Yiyang Sun, Zikang Jia (2020). <A href="https://YRPan1999.github.io/publications/2020_MCM.pdf" style="color: #52adc8; text-decoration=underline"> Scottish North Fishing Company Management Decision based on Changing of Sea Surface Temperature
 </A>.
