@@ -5,11 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %} See the citation statistics on my Google Scholar profile. {% endif %}
+{% if author.googlescholar %}
+  See the citation statistics on <a href="{{author.googlescholar}}" style="color: #52adc8; text-decoration=underline">my Google Scholar profile</a>.
+{% endif %}
 
 {% include base_path %}
 
-{% if my_variable == true %} My publications will be coming soon. {% else %}
+{% if my_variable == true %}
+My publications will be coming soon.
+{% else %}
+
+<!--{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+-->
 
 ## Preprints
 
