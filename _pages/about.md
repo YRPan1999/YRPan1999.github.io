@@ -18,4 +18,4 @@ Education
 
 Resume
 ======
-Please reference <A href="https://YRPan1999.github.io/publications/Youran Pan_Resume_2021_11_22.pdf" style="color: #52adc8; text-decoration=underline">here</A> for detail Resume.
+Please reference <A href="https://YRPan1999.github.io/publications/Youran Pan_Resume.pdf" style="color: #52adc8; text-decoration=underline">here</A> for detail Resume.
