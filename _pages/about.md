@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent graduate with duel-degree of B.S. in Applied Mathematic from [Duke University](https://duke.edu) and [Duke Kunshan University](https://dukekunshan.edu.cn) (DKU). And I am heading for M.S. in Mathematics in Finance at Courant Institute of Mathematical Sciences, New York University.
+I am a recent graduate with duel-degree of B.S. in Applied Mathematic from [Duke University](https://duke.edu) and [Duke Kunshan University](https://dukekunshan.edu.cn) (DKU). And I am going for M.S. in Mathematics in Finance at Courant Institute of Mathematical Sciences, New York University.
 
 Education
 ======
