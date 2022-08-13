@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Prospective M.S. in Mathematics in Finance, [Courant Institute of Mathematical Sciences](https://cims.nyu.edu), [New York University](https://www.nyu.edu), Sep.2022 -- Dec.2023
+* M.S. in Mathematics in Finance, [Courant Institute of Mathematical Sciences](https://cims.nyu.edu), [New York University](https://www.nyu.edu), Aug.2022 -- Dec.2023
 * B.S. in Mathematics and Applied Mathematics, [Duke University](https://duke.edu), Aug.2018 -- Jun.2022
 * B.S. in Mathematics and Applied Mathematics, [Duke Kunshan University](https://dukekunshan.edu.cn), Aug.2018 -- Jun.2022
   * Major in Applied Mathematics
   * Related Courses in Applied Mathematics: Mathematical Foundation 1, Mathematical Foundation 3, Multivariable Calculus, Linear Algebra, ODE and Dynamical Systems, Real Analysis, Abstract Algebra, Partial Differential Equations, Numerical Analysis, Mathematical Modeling, Mathematics of Data Analysis and Machine Learning, Advanced Linear Algebra, Complex Variable, Stochastic Modeling and Computing, Topology.
   * Minor in Economic
-  * Related Courses in Economic: Economic Principles, Intermediate Microeconomics I, Intermediate Macroeconomics.
+  * Related Courses in Economic: Economic Principles, Intermediate Microeconomics I, Intermediate Macroeconomics, Econometrics.
   * GRE score: 340 + 4.0
     * Verbal Reasoning: 170 (99th Percentile)
     * Quantitative Reasoning: 170 (96th Percentile)
@@ -52,9 +52,9 @@ Skills
 ======
 * LaTeX
 * Computer Programming
-  * R
   * Matlab
   * Python
+  * R
 * Language
   * Chinese Mandarin (Native)
   * English (Business)
