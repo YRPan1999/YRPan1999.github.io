@@ -18,4 +18,4 @@ Education
 
 LinkedIn Profile
 ======
-Please reference <A href="linkedin.com/in/youran-pan" style="color: #52adc8; text-decoration=underline">here</A> for detail profile.
+Please reference [here](linkedin.com/in/youran-pan) for details.
