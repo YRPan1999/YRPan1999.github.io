@@ -27,7 +27,11 @@ Education
 
 Research Experience
 ======
-* Dec 2020 – Present: Research Assistant at Data Science Research Center, Duke Kunshan University
+* May 2023 - Present: Quantitative Trading Strategy Research Assistant at [Research Center for Market Economy](https://econ.pku.edu.cn/RCME/zxtd/index.htm), Peking University
+  * Research Brief: Carried out backtest construction of different trading strategies, launch of solid trading, and risk assessment management.
+  * Supervisor: Prof. [Xiaolong Li](https://teacher.bupt.edu.cn/lixiaolong/zh_CN/index.htm)
+
+* Dec 2020 – May 2022: Research Assistant at Data Science Research Center, Duke Kunshan University
   * Research Brief: Proficiently crawl first-hand data of Chinese-Spanish/ Portuguese translated books by Python and analyze the resulting multi-dimensional data sets, [referencing for more details](https://dukekunshan.edu.cn/en/news/four-faculty-members-receive-funds-datax-project).
   * Advisors: Prof. [Caio Yurgel](https://dukekunshan.edu.cn/en/iapse/people/yurgel-caio-ph-d) & Prof. [Zairong Xiang](https://dukekunshan.edu.cn/en/iapse/people/xiang-zairong-phd)
 
@@ -43,18 +47,26 @@ Research Experience
   * Research Brief: Proficiently clean and classify first-hand patent data by Python and analyze the output figures and charts
   * Advisor: Prof. [Jingbo Cui](https://dukekunshan.edu.cn/en/iapse/people/cui-jingbo-phd)
 
-* July – Aug 2020: China Health and Retirement Longitudinal Study (CHARLS), Peking University, China
-  * Research Brief: Served as team leader leading 7 members in the 2020 CHARLS project; conduct face-to-face questionnaire survey, interview and body measurement for residents of more than 200 households in 6 villages in Jiangsu and Shandong provinces, China; completed the preliminary cleaning and analysis of the 2018 CHARLS data by Stata [referencing for more details and databases](https://opendata.pku.edu.cn/dataverse/CHARLS).
+* Jul – Aug 2020: China Health and Retirement Longitudinal Study (CHARLS), Peking University, China
+  * Research Brief: Served as team leader leading 7 members in the 2020 CHARLS project; conduct face-to-face questionnaire survey, interview and body measurement for residents of more than 200 households in 6 villages in Jiangsu and Shandong provinces, China; completed the preliminary cleaning and analysis of the 2018 CHARLS data by Stata [referencing for more details and databases](https://opendata.pku.edu.cn/dataverse/CHARLS)
   * Advisor: Prof. [Yaohui Zhao](https://en.nsd.pku.edu.cn/faculty/fulltime/z/239576.htm)
 
+Working Experience
+======
+* Aug 2023 - Present: Consulting and Research Analyst Intern, intership at Carbon Baseline
+* Nov 2022 - Apr 2023: Machine learning & Quantitative Strategies Intern, intership at Global AI
+* Jul 2022 - Sep 2022: Investment Research and Data Analytics, intership at Enhanced Healthcare Partners
 
 Skills
 ======
 * LaTeX
-* Computer Programming
-  * Matlab
+* Computer Programming Language
   * Python
+  * Java
+* Stats Programming Language
+  * Matlab
   * R
+  * Stata
 * Language
   * Chinese Mandarin (Native)
   * English (Business)
