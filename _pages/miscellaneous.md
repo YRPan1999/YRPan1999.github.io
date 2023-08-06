@@ -18,13 +18,10 @@ Social Affair
 Hobbies
 ======
 In my spare time, I enjoy
-* dating with girlfriend (Ruby Shu);
+* weight training;
 * motorcycle riding;
-* traveling;
-* playing basketball;
 * playing chess;
 * playing first-person action PC games (especially Sekiro: Shadows Die Twice, God of War, The Witcher, Death Stranding, Red Dead Redemption, etc.);
-* fishing;
 * cooking (especially Japanese & Chinese food).
 
 Resonance & Research Thoughts
