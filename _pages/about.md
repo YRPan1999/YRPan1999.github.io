@@ -16,6 +16,10 @@ Education
 * B.S. in Mathematics and Applied Mathematics, [Duke University](https://duke.edu), Aug.2018 -- Jun.2022
 * B.S. in Mathematics and Applied Mathematics, [Duke Kunshan University](https://dukekunshan.edu.cn), Aug.2018 -- Jun.2022
 
-Resume
+LinkedIn Profile
 ======
-Please reference <A href="https://YRPan1999.github.io/publications/Youran Pan_Resume.pdf" style="color: #52adc8; text-decoration=underline">here</A> for detail Resume.
+Please reference <A href="linkedin.com/in/youran-pan" style="color: #52adc8; text-decoration=underline">here</A> for detail profile.
+
+# Resume
+# ======
+# Please reference <A href="https://YRPan1999.github.io/publications/Youran Pan_Resume.pdf" style="color: #52adc8; text-decoration=underline">here</A> for detail Resume.
