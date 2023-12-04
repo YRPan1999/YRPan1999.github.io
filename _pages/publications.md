@@ -29,7 +29,7 @@ My publications will be coming soon.
 
 ## Dissertation
 
-1. **Youran Pan** (2022). <A href="https://YRPan1999.github.io/publications/Signature Work Thesis_Youran Pan.pdf" style="color: #52adc8; text-decoration=underline"> Shadows of Black Holes: A Computational Approach. In partial fulfillment of the requirements for the degree of Bachelor of Science in Applied Mathematics and Computational Sciences</A>, supervised by Prof. Marcus Werner.
+1. **Youran Pan** (2022). <A href="https://YRPan1999.github.io/publications/Signature Work Thesis_Youran Pan.pdf" style="color: #52adc8; text-decoration=underline"> Shadows of Black Holes: A Computational Approach</A>. In partial fulfillment of the requirements for the degree of Bachelor of Science in Applied Mathematics and Computational Sciences, supervised by Prof. Marcus Werner.
 2. **Youran Pan**, Zikang Jia, Qitong Cao (2020). <A href="https://YRPan1999.github.io/publications/Dynamic Overbooking Air Transportation Model – Single-Leg Airline Revenue Management & Relative Adjustment to Covid-19.pdf" style="color: #52adc8; text-decoration=underline"> Dynamic Overbooking Air Transportation Model – Single-Leg Airline Revenue Management & Relative Adjustment to Covid-19</A>. In partial fulfillment of the requirements for the completion of Math 406 Mathematical Modeling course at DKU, supervised by Prof. Shixin Xu.
 
 
