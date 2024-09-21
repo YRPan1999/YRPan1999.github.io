@@ -22,7 +22,7 @@ My publications will be coming soon.
 
 ## Published
 
-1. Ken Gu, Ruoxi Shang, Ruien Jiang, Keying Kuang, Richard-John Lin, Donghe Lyu, Yue Mao, **Youran Pan**, Teng Wu, Jiaqian Yu, Yikun Zhang, Tianmai M Zhang, Lanyi Zhu, Mike A Merrill, Jeffrey Heer, Tim Althoff (2024). <A href="https://arxiv.org/abs/2408.09667" style="color: #52adc8; text-decoration=underline"> BLADE: Benchmarking Language Model Agents for Data-Driven Science</A>. EMNLP 2024, arXiv preprint arXiv:2408.09667.
+1. Ken Gu, Ruoxi Shang, Ruien Jiang, Keying Kuang, Richard-John Lin, Donghe Lyu, Yue Mao, **Youran Pan**, Teng Wu, Jiaqian Yu, Yikun Zhang, Tianmai M Zhang, Lanyi Zhu, Mike A Merrill, Jeffrey Heer, Tim Althoff (2024). <A href="https://arxiv.org/abs/2408.09667" style="color: #52adc8; text-decoration=underline"> BLADE: Benchmarking Language Model Agents for Data-Driven Science</A>. Findings of EMNLP 2024, arXiv preprint arXiv:2408.09667.
 
 ## In Process
 
